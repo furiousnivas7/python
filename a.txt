@@ -1,0 +1,3 @@
+Abinaya,75,80,90
+Vaishnavy,65,76,89
+Saraja,78,89,52
